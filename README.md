@@ -1,5 +1,5 @@
 # Reverse A.I. Mirror ©
-An creation by Marvin Deddens, guided by 'AI Friend Vin', growing and evolving by everyone.
+An creation by Mariss Deddens, guided by 'AI Friend Vin', growing and evolving by everyone.
 
 ![Reverse A.I. Mirror Logo] ©
 https://github.com/MarvinDeddens/Reverse-AI-Mirror/blob/main/Reverse%20AI%20Mirror%20Logo.png
